@@ -1,13 +1,13 @@
 # Supermarket Data Analysis Project 
 <img width="424" height="282" alt="Image" src="https://github.com/user-attachments/assets/c7ab5958-370b-44c2-a71c-05249b2c4332" />
 
-## 📘 Project Overview
-This project analyzes supermarket sales data using **Microsoft Excel** to identify trends, customer behavior patterns, and factors influencing sales performance.  
-The goal was to use statistical techniques (including **descriptive analysis** and **ANOVA tests**) to draw actionable insights that can guide decision-making in pricing, inventory, and marketing.
+## Introduction
+This project analyzes supermarket sales data using ******Microsoft Excel**** to identify trends, customer behavior patterns, and factors influencing sales performance.  
+The goal was to use statistical techniques (including **descriptive analysis** and **ANOVA tests**)** to draw actionable insights that can guide decision-making in pricing, inventory, and marketing.
 
 ---
 
-## 🎯 Research Questions
+## Research Questions
 The analysis aimed to answer the following research questions:
 
 1. What is the relationship between customer type and total spending?
@@ -18,7 +18,7 @@ The analysis aimed to answer the following research questions:
 
 ---
 
-## 📊 Data Description
+## Data Description
 The dataset contains **supermarket sales transactions** with attributes such as:
 
 | Column Name | Description |
@@ -40,7 +40,7 @@ The dataset contains **supermarket sales transactions** with attributes such as:
 
 ---
 
-## ⚙️ Steps in Excel Analysis
+##  Steps in Excel Analysis
 
 1. **Data Import & Cleaning**
    - Imported CSV file into Excel.
@@ -72,7 +72,7 @@ The dataset contains **supermarket sales transactions** with attributes such as:
 
 ---
 
-## 🧪 Test Results
+## Test Results
 
 ### 1. Descriptive Statistics Summary
 
@@ -83,7 +83,7 @@ The dataset contains **supermarket sales transactions** with attributes such as:
 
 ---
 
-## 📈 ANOVA Results (Example Table)
+## ANOVA Results (Example Table)
 
 | Source of Variation | SS | df | MS | F | P-value | F crit |
 |----------------------|----|----|----|---|----------|--------|
@@ -91,12 +91,12 @@ The dataset contains **supermarket sales transactions** with attributes such as:
 | Within Groups | 157832.4 | 98 | 1610.54 |   |   |   |
 | **Total** | **172068.0** | **100** |   |   |   |   |
 
-📊 **Interpretation:**  
+ **Interpretation:**  
 Since **P-value (0.011) < 0.05**, there is a statistically significant difference in mean sales among the supermarket branches.
 
 ---
 
-## 🔍 Analysis and Findings
+##  Analysis and Findings
 
 - **Branch Performance:** Branch B showed the highest mean sales and customer satisfaction ratings.  
 - **Customer Type:** Members spent significantly more on average than normal customers.  
@@ -106,7 +106,7 @@ Since **P-value (0.011) < 0.05**, there is a statistically significant differenc
 
 ---
 
-## 🧮 Codes for Analysis (Excel Formulas)
+##  Codes for Analysis (Excel Formulas)
 
 | Task | Excel Formula / Tool |
 |------|-----------------------|
@@ -119,7 +119,7 @@ Since **P-value (0.011) < 0.05**, there is a statistically significant differenc
 
 ---
 
-## 🧾 Summary
+##  Summary
 
 - The supermarket demonstrates **branch-specific variations** in performance.
 - **Customer membership** is a key driver of higher average sales.
@@ -128,7 +128,7 @@ Since **P-value (0.011) < 0.05**, there is a statistically significant differenc
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 The analysis provided a clear understanding of supermarket sales dynamics.  
 Excel proved effective for data cleaning, visualization, and hypothesis testing without requiring programming.  
@@ -136,7 +136,7 @@ Findings can inform marketing strategies, stock management, and membership progr
 
 ---
 
-## 💡 Recommendations
+## Recommendations
 
 - Encourage customer membership programs to boost loyalty.
 - Allocate more resources during peak evening hours.
@@ -145,7 +145,7 @@ Findings can inform marketing strategies, stock management, and membership progr
 
 ---
 
-## 🪜 How to Reproduce This Analysis in Excel
+## How to Reproduce This Analysis in Excel
 
 1. Download the supermarket dataset (`Supermarket_Sales.xlsx`).
 2. Open it in Excel.
