@@ -1,6 +1,6 @@
 # Supermarket-Sales-Analysis
 
-# 🛒 Supermarket Data Analysis Project (Excel-Based)
+# 🛒 Supermarket Data Analysis Project 
 
 ## 📘 Project Overview
 This project analyzes supermarket sales data using **Microsoft Excel** to identify trends, customer behavior patterns, and factors influencing sales performance.  
