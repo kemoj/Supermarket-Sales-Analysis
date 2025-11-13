@@ -1,5 +1,3 @@
-# Supermarket-Sales-Analysis
-
 # Supermarket Data Analysis Project 
 <img width="424" height="282" alt="Image" src="https://github.com/user-attachments/assets/c7ab5958-370b-44c2-a71c-05249b2c4332" />
 
