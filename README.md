@@ -1,4 +1,4 @@
-# Supermarket Data Analysis Project 
+# Supermarket Data Analysis Project [Excel and Power BI] 
 <img width="424" height="282" alt="Image" src="https://github.com/user-attachments/assets/c7ab5958-370b-44c2-a71c-05249b2c4332" />
 
 ## Introduction
